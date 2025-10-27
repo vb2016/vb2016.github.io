@@ -1,6 +1,7 @@
 google.com, pub-9925684089022314, DIRECT, f08c47fec0942fa0
 google.com,pub-2494899404231161,DIRECT,f08c47fec0942fa0
 google.com, pub-8956861260735796, DIRECT, f08c47fec0942fa0
+google.com, pub-5582226006165721, DIRECT, f08c47fec0942fa0
 
 #Meta
 facebook.com, 278047686273547, DIRECT, c3e20eee3f780d68
